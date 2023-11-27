@@ -1,5 +1,5 @@
 # Kick60K
-A large-scale multi-modal dataset collected from Kickstarter
+A large-scale multi-modal dataset collected from Kickstarter.(To the best of our knowledge,it's also the **largest** one about Kick)
 
 
 
