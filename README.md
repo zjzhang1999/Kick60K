@@ -1,5 +1,6 @@
 # Kick60K
 A large-scale multi-modal dataset collected from Kickstarter
+![visualdata1](https://github.com/zjzhang1999/Kick60K/assets/125016833/ea8b2cd8-39af-45ad-a7ee-ba89473e7167)
 
 
 ### Note: Complete dataset are currently stored on Baidu Cloud Drive. If you need access to them, please feel free to contact the [author](mailto:zjzhang2023@hkbu.edu.hk.com). 
