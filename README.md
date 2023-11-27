@@ -5,7 +5,8 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+### Note: Complete dataset are currently stored on Baidu Cloud Drive. If you need access to them, please feel free to contact the [author](mailto:zjzhang2023@hkbu.edu.hk.com). 
+### Any request will be warmly welcomed and encouraged, as it is a contribution to the crowdfunding community.
 
 Kick60K is a large-scale dataset of videos-text-metadata pairs with an emphasis on introduction videos where crowdfunding project creators published on the platform with an explicit intention of explaining the useful information about their products or services.
 Kick60K features a total of:
